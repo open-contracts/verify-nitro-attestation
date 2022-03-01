@@ -1,4 +1,5 @@
 # verify-nitro-attestation
+Towards fraud proofs of the attestation doc for the `Verifier.sol` contract in [Truebit](https://truebit.io). 
 
 1) put the attestation doc into `data/attestation_doc` in binary format. 
 2) `cargo run`
